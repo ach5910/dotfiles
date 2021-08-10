@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/ahunt/stats/video-editor/src/editor'
+let g:netrw_dirhist_2='/Users/ahunt/stats/pressbox-video-react-frontend/src/pages/details'
+let g:netrw_dirhist_1='/Users/ahunt/stats/video-editor/src/components/ExportModal'
